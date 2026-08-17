@@ -6,9 +6,18 @@ namespace Sandbox
     {
         public static void Main(string[] args)
         {
-            Console.Write("hola");
-            Console.Write(" ");
-            Console.Write("fabito!");
+            // TODO TU CÓDIGO DEBE IR AQUÍ ADENTRO
+
+            Console.Write("\n\n\n");
+            // Generar un programa que muestre atributos...
+            Console.WriteLine("Estadisticas en forma de tabla");
+            Console.WriteLine("/ Greg \"El Mago\" /");
+            Console.WriteLine("------------------");
+            Console.WriteLine("/ HP\t200        /");
+            Console.WriteLine("/ MP\t700        /");
         }
     }
 }
+
+
+
