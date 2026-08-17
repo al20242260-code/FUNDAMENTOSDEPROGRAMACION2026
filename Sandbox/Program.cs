@@ -6,7 +6,7 @@ namespace Sandbox
     {
         public static void Main(string[] args)
         {
-            // TODO TU CÓDIGO DEBE IR AQUÍ ADENTRO
+
 
             Console.Write("\n\n\n");
             // Generar un programa que muestre atributos...
