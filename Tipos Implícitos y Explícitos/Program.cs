@@ -35,6 +35,17 @@ namespace Tipos_Implícitos_y_Explícitos
             Console.WriteLine("Tipo de MIN_VALUE_SBYTE: " + MIN_VALUE_SBYTE.GetType());
             Console.WriteLine("Tipo de MAX_VALUE_DOUBLE: " + MAX_VALUE_DOUBLE.GetType());
             Console.WriteLine("Tipo de DIFFICULTY: " + DIFFICULTY.GetType());
+
+            // Lectura de pantalla
+            Console.WriteLine("\n\n\n");
+
+            Console.Write("Dame tu nombre: ");
+            string nombre = Console.ReadLine();
+
+            Console.Write("Dame tu apellido: ");
+            string apellido = Console.ReadLine();
+
+            Console.WriteLine("Hola " + nombre + " " + apellido);
         }
     }
 }
