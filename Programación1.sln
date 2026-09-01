@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos Implícitos y Explíc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-08-26", "31-08-26\31-08-26.csproj", "{88B801CE-2054-4F34-8FC5-0D77B4D16257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-08-26V2", "31-08-26V2\31-08-26V2.csproj", "{B10C0950-7114-41E6-A59E-D68BC225314B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{88B801CE-2054-4F34-8FC5-0D77B4D16257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B801CE-2054-4F34-8FC5-0D77B4D16257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B801CE-2054-4F34-8FC5-0D77B4D16257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10C0950-7114-41E6-A59E-D68BC225314B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10C0950-7114-41E6-A59E-D68BC225314B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10C0950-7114-41E6-A59E-D68BC225314B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10C0950-7114-41E6-A59E-D68BC225314B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
